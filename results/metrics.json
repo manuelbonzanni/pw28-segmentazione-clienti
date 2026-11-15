@@ -203,37 +203,37 @@
   "stress": [
     {
       "n_clienti": 500,
-      "prep_s": 0.009,
-      "scan_k_s": 0.202,
-      "fit_k5_s": 0.101,
+      "prep_s": 0.008,
+      "scan_k_s": 0.272,
+      "fit_k5_s": 0.042,
       "silhouette_campione": 0.466
     },
     {
       "n_clienti": 2000,
-      "prep_s": 0.013,
-      "scan_k_s": 0.599,
-      "fit_k5_s": 0.033,
+      "prep_s": 0.011,
+      "scan_k_s": 0.716,
+      "fit_k5_s": 0.035,
       "silhouette_campione": 0.446
     },
     {
       "n_clienti": 10000,
-      "prep_s": 0.02,
-      "scan_k_s": 2.943,
-      "fit_k5_s": 0.074,
+      "prep_s": 0.014,
+      "scan_k_s": 3.307,
+      "fit_k5_s": 0.069,
       "silhouette_campione": 0.44
     },
     {
       "n_clienti": 50000,
-      "prep_s": 0.048,
-      "scan_k_s": 1.774,
-      "fit_k5_s": 0.306,
+      "prep_s": 0.027,
+      "scan_k_s": 1.66,
+      "fit_k5_s": 0.256,
       "silhouette_campione": 0.437
     },
     {
       "n_clienti": 100000,
-      "prep_s": 0.098,
-      "scan_k_s": 2.624,
-      "fit_k5_s": 0.637,
+      "prep_s": 0.045,
+      "scan_k_s": 2.261,
+      "fit_k5_s": 0.571,
       "silhouette_campione": 0.435
     }
   ],
@@ -263,7 +263,7 @@
       "quota_cambiata_pct": 0.2
     },
     {
-      "scenario": "D: deriva verso l'inattivita' (nessuna richiesta recente)",
+      "scenario": "D: deriva verso l'inattività (nessuna richiesta recente)",
       "clienti_aggiunti": 150,
       "silhouette_prima": 0.49,
       "silhouette_dopo": 0.518,

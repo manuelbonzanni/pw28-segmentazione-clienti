@@ -1,9 +1,9 @@
 configurazione,k,silhouette,ARI_vs_profili_latenti,cluster_piu_grande
-RFM + anzianita' con log + z-score (adottata),4,0.48985716805792107,0.5900451528871533,176
-RFM + anzianita' con log + z-score (adottata),5,0.45255404802263954,0.5480211240389803,128
+RFM + anzianità con log + z-score (adottata),4,0.48985716805792107,0.5900451528871533,176
+RFM + anzianità con log + z-score (adottata),5,0.45255404802263954,0.5480211240389803,128
 Solo RFM con log + z-score,4,0.5102367540318989,0.46855008310062535,148
 Solo RFM con log + z-score,5,0.4825056362608546,0.5031470749573518,119
-RFM + anzianita' solo z-score (senza log),4,0.46582704113361345,0.5955711817760397,230
-RFM + anzianita' solo z-score (senza log),5,0.4497575488876381,0.5795865351003825,181
-RFM + anzianita' + importo medio,4,0.4944982326668331,0.5900451528871533,176
-RFM + anzianita' + importo medio,5,0.4537308475938771,0.5478853240778525,129
+RFM + anzianità solo z-score (senza log),4,0.46582704113361345,0.5955711817760397,230
+RFM + anzianità solo z-score (senza log),5,0.4497575488876381,0.5795865351003825,181
+RFM + anzianità + importo medio,4,0.4944982326668331,0.5900451528871533,176
+RFM + anzianità + importo medio,5,0.4537308475938771,0.5478853240778525,129
