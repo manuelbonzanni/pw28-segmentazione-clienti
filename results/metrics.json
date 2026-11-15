@@ -204,36 +204,36 @@
     {
       "n_clienti": 500,
       "prep_s": 0.008,
-      "scan_k_s": 0.272,
-      "fit_k5_s": 0.042,
+      "scan_k_s": 0.313,
+      "fit_k5_s": 0.035,
       "silhouette_campione": 0.466
     },
     {
       "n_clienti": 2000,
-      "prep_s": 0.011,
-      "scan_k_s": 0.716,
-      "fit_k5_s": 0.035,
+      "prep_s": 0.009,
+      "scan_k_s": 0.721,
+      "fit_k5_s": 0.042,
       "silhouette_campione": 0.446
     },
     {
       "n_clienti": 10000,
       "prep_s": 0.014,
-      "scan_k_s": 3.307,
-      "fit_k5_s": 0.069,
+      "scan_k_s": 3.071,
+      "fit_k5_s": 0.084,
       "silhouette_campione": 0.44
     },
     {
       "n_clienti": 50000,
       "prep_s": 0.027,
-      "scan_k_s": 1.66,
-      "fit_k5_s": 0.256,
+      "scan_k_s": 1.695,
+      "fit_k5_s": 0.246,
       "silhouette_campione": 0.437
     },
     {
       "n_clienti": 100000,
-      "prep_s": 0.045,
-      "scan_k_s": 2.261,
-      "fit_k5_s": 0.571,
+      "prep_s": 0.048,
+      "scan_k_s": 2.334,
+      "fit_k5_s": 0.519,
       "silhouette_campione": 0.435
     }
   ],
