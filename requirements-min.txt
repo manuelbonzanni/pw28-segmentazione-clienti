@@ -1,0 +1,6 @@
+# Vincoli minimi (per chi vuole usare librerie già installate). Per riprodurre esattamente results/ usare requirements.txt
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+streamlit>=1.40

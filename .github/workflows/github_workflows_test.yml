@@ -1,0 +1,17 @@
+name: test
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      # x riprodurre esattamente i risultati versionati
+      - run: python src/generate_data.py && git diff --exit-code -- data/
+      - run: python src/evaluate.py
+      # metrics.json contiene i tempi di esecuzione e stress_test.csv misura il tempo
+      - run: git diff --exit-code -- results/ ':!results/metrics.json' ':!results/stress_test.csv'

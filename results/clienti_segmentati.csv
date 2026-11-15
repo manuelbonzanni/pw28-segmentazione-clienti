@@ -1,0 +1,481 @@
+customer_id,zona,data_iscrizione,richieste_90g,importo_totale_90g,giorni_ultima_richiesta,categoria_preferita,piano,anzianita_giorni,cluster,segmento
+C0001,Sud,2026-04-25,9,494.39,1,Assistenza IT,Plus,158,3,Clienti fedeli ad alto valore
+C0002,Centro,2026-03-08,0,0.0,131,Giardinaggio,Pay-per-use,206,2,Inattivi / a rischio abbandono
+C0003,Centro,2026-09-19,1,43.4,0,Pulizie,Trial,11,1,Nuovi clienti in fase di prova
+C0004,Nord-Ovest,2026-05-02,1,14.62,60,Giardinaggio,Pay-per-use,151,0,Clienti occasionali
+C0005,Nord-Est,2026-04-09,0,0.0,124,Riparazioni,Pay-per-use,174,2,Inattivi / a rischio abbandono
+C0006,Centro,2026-04-13,3,105.99,29,Pulizie,Pay-per-use,170,0,Clienti occasionali
+C0007,Nord-Est,2026-04-29,1,32.1,38,Assistenza IT,Pay-per-use,154,0,Clienti occasionali
+C0008,Centro,2026-09-13,1,27.15,5,Riparazioni,Trial,17,1,Nuovi clienti in fase di prova
+C0009,Centro,2026-01-08,7,404.61,9,Assistenza IT,Plus,265,3,Clienti fedeli ad alto valore
+C0010,Nord-Est,2026-04-12,0,0.0,171,Traslochi,Pay-per-use,171,2,Inattivi / a rischio abbandono
+C0011,Centro,2026-05-31,9,535.08,10,Pulizie,Plus,122,3,Clienti fedeli ad alto valore
+C0012,Isole,2026-03-03,2,47.41,45,Riparazioni,Pay-per-use,211,0,Clienti occasionali
+C0013,Nord-Est,2026-01-13,0,0.0,117,Traslochi,Pay-per-use,260,2,Inattivi / a rischio abbandono
+C0014,Isole,2026-01-23,2,54.6,88,Traslochi,Pay-per-use,250,0,Clienti occasionali
+C0015,Nord-Ovest,2026-01-13,4,213.29,7,Riparazioni,Pay-per-use,260,3,Clienti fedeli ad alto valore
+C0016,Nord-Est,2026-06-14,4,162.68,35,Assistenza IT,Plus,108,3,Clienti fedeli ad alto valore
+C0017,Isole,2026-04-06,8,471.5,7,Riparazioni,Pay-per-use,177,3,Clienti fedeli ad alto valore
+C0018,Nord-Est,2026-05-21,0,0.0,132,Assistenza IT,Pay-per-use,132,2,Inattivi / a rischio abbandono
+C0019,Nord-Est,2026-03-23,6,341.75,4,Assistenza IT,Plus,191,3,Clienti fedeli ad alto valore
+C0020,Nord-Ovest,2026-06-27,7,315.15,13,Giardinaggio,Pay-per-use,95,3,Clienti fedeli ad alto valore
+C0021,Nord-Est,2026-03-12,4,226.35,29,Pulizie,Plus,202,3,Clienti fedeli ad alto valore
+C0022,Centro,2026-03-12,0,0.0,119,Riparazioni,Pay-per-use,202,2,Inattivi / a rischio abbandono
+C0023,Sud,2026-02-07,11,568.82,14,Pulizie,Plus,235,3,Clienti fedeli ad alto valore
+C0024,Nord-Est,2026-03-27,2,57.87,34,Pulizie,Pay-per-use,187,0,Clienti occasionali
+C0025,Isole,2026-04-25,3,131.11,30,Assistenza IT,Pay-per-use,158,0,Clienti occasionali
+C0026,Nord-Ovest,2026-01-05,0,0.0,177,Riparazioni,Plus,268,2,Inattivi / a rischio abbandono
+C0027,Nord-Est,2026-09-09,3,104.1,1,Pulizie,Trial,21,1,Nuovi clienti in fase di prova
+C0028,Nord-Ovest,2026-02-19,1,53.41,59,Traslochi,Pay-per-use,223,0,Clienti occasionali
+C0029,Sud,2026-01-04,1,29.61,61,Riparazioni,Pay-per-use,269,0,Clienti occasionali
+C0030,Centro,2026-02-05,12,739.44,10,Riparazioni,Pay-per-use,237,3,Clienti fedeli ad alto valore
+C0031,Centro,2026-09-04,1,21.48,9,Assistenza IT,Pay-per-use,26,1,Nuovi clienti in fase di prova
+C0032,Nord-Ovest,2026-01-27,6,324.31,12,Pulizie,Pay-per-use,246,3,Clienti fedeli ad alto valore
+C0033,Nord-Ovest,2026-09-09,1,38.99,5,Assistenza IT,Trial,21,1,Nuovi clienti in fase di prova
+C0034,Nord-Est,2026-03-28,0,0.0,166,Riparazioni,Pay-per-use,186,2,Inattivi / a rischio abbandono
+C0035,Centro,2026-09-22,2,56.68,3,Riparazioni,Trial,8,1,Nuovi clienti in fase di prova
+C0036,Nord-Ovest,2026-02-27,3,153.42,5,Assistenza IT,Pay-per-use,215,3,Clienti fedeli ad alto valore
+C0037,Centro,2026-01-21,1,41.96,31,Traslochi,Pay-per-use,252,0,Clienti occasionali
+C0038,Nord-Ovest,2026-04-19,5,233.21,8,Giardinaggio,Pay-per-use,164,3,Clienti fedeli ad alto valore
+C0039,Nord-Ovest,2026-04-28,0,0.0,147,Traslochi,Pay-per-use,155,2,Inattivi / a rischio abbandono
+C0040,Isole,2026-04-20,8,411.43,12,Giardinaggio,Plus,163,3,Clienti fedeli ad alto valore
+C0041,Nord-Est,2026-09-06,2,109.18,10,Pulizie,Trial,24,1,Nuovi clienti in fase di prova
+C0042,Nord-Ovest,2026-02-04,1,65.2,9,Pulizie,Plus,238,0,Clienti occasionali
+C0043,Nord-Est,2026-04-19,4,148.37,3,Pulizie,Pay-per-use,164,3,Clienti fedeli ad alto valore
+C0044,Nord-Est,2026-02-09,2,62.43,81,Riparazioni,Pay-per-use,233,0,Clienti occasionali
+C0045,Nord-Ovest,2026-04-09,6,313.67,6,Pulizie,Plus,174,3,Clienti fedeli ad alto valore
+C0046,Nord-Ovest,2026-01-04,1,43.33,74,Riparazioni,Pay-per-use,269,0,Clienti occasionali
+C0047,Nord-Ovest,2026-03-01,0,0.0,184,Riparazioni,Pay-per-use,213,2,Inattivi / a rischio abbandono
+C0048,Sud,2026-04-10,9,514.21,11,Riparazioni,Plus,173,3,Clienti fedeli ad alto valore
+C0049,Nord-Est,2026-06-13,2,57.32,38,Pulizie,Plus,109,0,Clienti occasionali
+C0050,Centro,2026-01-23,3,174.75,14,Pulizie,Plus,250,3,Clienti fedeli ad alto valore
+C0051,Nord-Ovest,2026-09-20,2,64.99,9,Pulizie,Trial,10,1,Nuovi clienti in fase di prova
+C0052,Centro,2026-09-16,1,33.81,5,Riparazioni,Trial,14,1,Nuovi clienti in fase di prova
+C0053,Nord-Ovest,2026-03-13,0,0.0,99,Riparazioni,Pay-per-use,201,2,Inattivi / a rischio abbandono
+C0054,Nord-Ovest,2026-01-07,0,0.0,153,Riparazioni,Pay-per-use,266,2,Inattivi / a rischio abbandono
+C0055,Nord-Ovest,2026-05-21,1,31.01,89,Riparazioni,Pay-per-use,132,0,Clienti occasionali
+C0056,Nord-Est,2026-03-11,1,14.13,57,Pulizie,Pay-per-use,203,0,Clienti occasionali
+C0057,Nord-Ovest,2026-01-16,11,543.59,13,Giardinaggio,Pay-per-use,257,3,Clienti fedeli ad alto valore
+C0058,Nord-Est,2026-02-19,3,144.52,33,Riparazioni,Pay-per-use,223,0,Clienti occasionali
+C0059,Nord-Ovest,2026-03-02,0,0.0,134,Riparazioni,Pay-per-use,212,2,Inattivi / a rischio abbandono
+C0060,Isole,2026-06-03,3,96.59,29,Traslochi,Plus,119,0,Clienti occasionali
+C0061,Sud,2026-02-21,0,0.0,100,Traslochi,Pay-per-use,221,2,Inattivi / a rischio abbandono
+C0062,Nord-Ovest,2026-02-09,1,24.8,52,Traslochi,Pay-per-use,233,0,Clienti occasionali
+C0063,Nord-Ovest,2026-04-17,9,485.55,9,Giardinaggio,Plus,166,3,Clienti fedeli ad alto valore
+C0064,Nord-Est,2026-05-27,5,183.38,9,Giardinaggio,Plus,126,3,Clienti fedeli ad alto valore
+C0065,Nord-Est,2026-05-03,1,76.52,43,Riparazioni,Pay-per-use,150,0,Clienti occasionali
+C0066,Centro,2026-05-13,1,24.98,48,Pulizie,Pay-per-use,140,0,Clienti occasionali
+C0067,Centro,2026-05-13,2,101.56,70,Assistenza IT,Pay-per-use,140,0,Clienti occasionali
+C0068,Centro,2026-04-29,7,331.4,7,Assistenza IT,Plus,154,3,Clienti fedeli ad alto valore
+C0069,Sud,2026-03-29,12,692.22,7,Riparazioni,Pay-per-use,185,3,Clienti fedeli ad alto valore
+C0070,Sud,2026-04-05,1,28.76,82,Riparazioni,Pay-per-use,178,0,Clienti occasionali
+C0071,Sud,2026-01-30,2,49.52,27,Traslochi,Pay-per-use,243,0,Clienti occasionali
+C0072,Centro,2026-04-26,10,654.16,5,Giardinaggio,Plus,157,3,Clienti fedeli ad alto valore
+C0073,Centro,2026-03-17,2,67.85,25,Traslochi,Pay-per-use,197,0,Clienti occasionali
+C0074,Sud,2026-03-25,4,165.29,13,Pulizie,Pay-per-use,189,3,Clienti fedeli ad alto valore
+C0075,Centro,2026-06-29,2,60.38,4,Riparazioni,Pay-per-use,93,1,Nuovi clienti in fase di prova
+C0076,Centro,2026-06-08,4,226.87,12,Assistenza IT,Plus,114,3,Clienti fedeli ad alto valore
+C0077,Isole,2026-05-07,1,35.28,26,Traslochi,Pay-per-use,146,0,Clienti occasionali
+C0078,Centro,2026-01-27,0,0.0,104,Traslochi,Pay-per-use,246,2,Inattivi / a rischio abbandono
+C0079,Nord-Est,2026-09-25,4,107.8,5,Pulizie,Trial,5,1,Nuovi clienti in fase di prova
+C0080,Isole,2026-05-23,11,580.74,14,Pulizie,Plus,130,3,Clienti fedeli ad alto valore
+C0081,Nord-Est,2026-04-03,0,0.0,98,Traslochi,Pay-per-use,180,2,Inattivi / a rischio abbandono
+C0082,Nord-Ovest,2026-03-16,11,688.56,9,Assistenza IT,Pay-per-use,198,3,Clienti fedeli ad alto valore
+C0083,Nord-Ovest,2026-02-17,3,109.37,32,Pulizie,Plus,225,0,Clienti occasionali
+C0084,Nord-Est,2026-03-02,0,0.0,212,Riparazioni,Pay-per-use,212,2,Inattivi / a rischio abbandono
+C0085,Nord-Est,2026-03-18,6,324.22,1,Giardinaggio,Plus,196,3,Clienti fedeli ad alto valore
+C0086,Nord-Est,2026-02-22,3,73.36,58,Traslochi,Pay-per-use,220,0,Clienti occasionali
+C0087,Sud,2026-02-26,1,22.16,62,Traslochi,Pay-per-use,216,0,Clienti occasionali
+C0088,Sud,2026-05-18,2,151.99,13,Assistenza IT,Pay-per-use,135,0,Clienti occasionali
+C0089,Nord-Est,2026-09-09,1,26.76,4,Pulizie,Pay-per-use,21,1,Nuovi clienti in fase di prova
+C0090,Centro,2026-04-07,5,191.43,14,Assistenza IT,Pay-per-use,176,3,Clienti fedeli ad alto valore
+C0091,Isole,2026-05-06,0,0.0,122,Riparazioni,Pay-per-use,147,2,Inattivi / a rischio abbandono
+C0092,Nord-Est,2026-03-08,3,124.36,51,Traslochi,Pay-per-use,206,0,Clienti occasionali
+C0093,Centro,2026-03-14,1,16.72,28,Pulizie,Pay-per-use,200,0,Clienti occasionali
+C0094,Centro,2026-01-24,0,0.0,217,Giardinaggio,Pay-per-use,249,2,Inattivi / a rischio abbandono
+C0095,Centro,2026-02-15,18,952.7,14,Assistenza IT,Plus,227,3,Clienti fedeli ad alto valore
+C0096,Nord-Ovest,2026-02-27,0,0.0,153,Riparazioni,Pay-per-use,215,2,Inattivi / a rischio abbandono
+C0097,Nord-Est,2026-03-28,2,100.07,26,Pulizie,Plus,186,0,Clienti occasionali
+C0098,Sud,2026-04-03,1,45.92,63,Giardinaggio,Pay-per-use,180,0,Clienti occasionali
+C0099,Centro,2026-02-24,0,0.0,157,Traslochi,Pay-per-use,218,2,Inattivi / a rischio abbandono
+C0100,Nord-Ovest,2026-06-02,10,640.48,11,Assistenza IT,Plus,120,3,Clienti fedeli ad alto valore
+C0101,Sud,2026-09-10,1,37.05,1,Assistenza IT,Pay-per-use,20,1,Nuovi clienti in fase di prova
+C0102,Centro,2026-03-19,0,0.0,184,Riparazioni,Pay-per-use,195,2,Inattivi / a rischio abbandono
+C0103,Centro,2026-02-24,2,111.12,15,Riparazioni,Plus,218,0,Clienti occasionali
+C0104,Nord-Ovest,2026-05-16,0,0.0,91,Traslochi,Pay-per-use,137,2,Inattivi / a rischio abbandono
+C0105,Sud,2026-05-16,3,121.28,15,Pulizie,Plus,137,0,Clienti occasionali
+C0106,Nord-Ovest,2026-01-25,6,228.94,24,Giardinaggio,Pay-per-use,248,3,Clienti fedeli ad alto valore
+C0107,Centro,2026-04-24,0,0.0,159,Traslochi,Pay-per-use,159,2,Inattivi / a rischio abbandono
+C0108,Nord-Est,2026-03-29,12,737.84,12,Pulizie,Plus,185,3,Clienti fedeli ad alto valore
+C0109,Nord-Ovest,2026-01-05,0,0.0,153,Riparazioni,Pay-per-use,268,2,Inattivi / a rischio abbandono
+C0110,Sud,2026-04-21,13,738.34,4,Assistenza IT,Plus,162,3,Clienti fedeli ad alto valore
+C0111,Centro,2026-05-29,4,133.81,27,Pulizie,Pay-per-use,124,3,Clienti fedeli ad alto valore
+C0112,Centro,2026-03-05,0,0.0,182,Traslochi,Pay-per-use,209,2,Inattivi / a rischio abbandono
+C0113,Sud,2026-01-04,3,114.52,11,Giardinaggio,Plus,269,0,Clienti occasionali
+C0114,Centro,2026-01-16,0,0.0,197,Riparazioni,Pay-per-use,257,2,Inattivi / a rischio abbandono
+C0115,Nord-Est,2026-03-05,0,0.0,199,Assistenza IT,Pay-per-use,209,2,Inattivi / a rischio abbandono
+C0116,Sud,2026-04-28,6,316.84,7,Pulizie,Plus,155,3,Clienti fedeli ad alto valore
+C0117,Nord-Ovest,2026-06-30,4,194.61,37,Riparazioni,Pay-per-use,92,3,Clienti fedeli ad alto valore
+C0118,Sud,2026-02-28,3,127.68,31,Riparazioni,Pay-per-use,214,0,Clienti occasionali
+C0119,Nord-Est,2026-02-16,0,0.0,187,Riparazioni,Pay-per-use,226,2,Inattivi / a rischio abbandono
+C0120,Centro,2026-04-02,13,712.99,10,Giardinaggio,Pay-per-use,181,3,Clienti fedeli ad alto valore
+C0121,Sud,2026-05-27,7,419.68,2,Pulizie,Plus,126,3,Clienti fedeli ad alto valore
+C0122,Nord-Ovest,2026-05-05,13,795.58,12,Riparazioni,Plus,148,3,Clienti fedeli ad alto valore
+C0123,Nord-Est,2026-02-01,0,0.0,153,Giardinaggio,Pay-per-use,241,2,Inattivi / a rischio abbandono
+C0124,Nord-Ovest,2026-01-23,12,631.14,11,Assistenza IT,Plus,250,3,Clienti fedeli ad alto valore
+C0125,Nord-Est,2026-02-06,5,254.89,1,Assistenza IT,Plus,236,3,Clienti fedeli ad alto valore
+C0126,Nord-Ovest,2026-01-15,5,224.31,7,Riparazioni,Plus,258,3,Clienti fedeli ad alto valore
+C0127,Centro,2026-06-13,7,275.02,5,Riparazioni,Pay-per-use,109,3,Clienti fedeli ad alto valore
+C0128,Nord-Est,2026-09-22,2,61.35,2,Assistenza IT,Pay-per-use,8,1,Nuovi clienti in fase di prova
+C0129,Nord-Ovest,2026-04-07,0,0.0,176,Giardinaggio,Pay-per-use,176,2,Inattivi / a rischio abbandono
+C0130,Nord-Ovest,2026-03-04,0,0.0,157,Riparazioni,Pay-per-use,210,2,Inattivi / a rischio abbandono
+C0131,Nord-Ovest,2026-01-08,5,213.44,12,Giardinaggio,Pay-per-use,265,3,Clienti fedeli ad alto valore
+C0132,Isole,2026-09-23,1,40.42,7,Pulizie,Trial,7,1,Nuovi clienti in fase di prova
+C0133,Nord-Est,2026-03-17,4,180.42,9,Pulizie,Pay-per-use,197,3,Clienti fedeli ad alto valore
+C0134,Centro,2026-01-28,6,296.81,11,Giardinaggio,Plus,245,3,Clienti fedeli ad alto valore
+C0135,Nord-Est,2026-04-07,3,110.86,27,Pulizie,Pay-per-use,176,0,Clienti occasionali
+C0136,Nord-Est,2026-06-02,2,63.27,68,Riparazioni,Pay-per-use,120,0,Clienti occasionali
+C0137,Nord-Est,2026-02-23,0,0.0,115,Traslochi,Pay-per-use,219,2,Inattivi / a rischio abbandono
+C0138,Centro,2026-05-19,5,261.91,10,Pulizie,Plus,134,3,Clienti fedeli ad alto valore
+C0139,Nord-Ovest,2026-06-09,4,219.85,24,Pulizie,Pay-per-use,113,3,Clienti fedeli ad alto valore
+C0140,Nord-Ovest,2026-02-18,6,286.56,6,Pulizie,Pay-per-use,224,3,Clienti fedeli ad alto valore
+C0141,Nord-Ovest,2026-03-11,13,680.24,7,Assistenza IT,Plus,203,3,Clienti fedeli ad alto valore
+C0142,Nord-Ovest,2026-04-12,0,0.0,159,Pulizie,Pay-per-use,171,2,Inattivi / a rischio abbandono
+C0143,Nord-Ovest,2026-09-27,1,25.69,3,Riparazioni,Pay-per-use,3,1,Nuovi clienti in fase di prova
+C0144,Nord-Est,2026-04-02,5,298.97,6,Giardinaggio,Plus,181,3,Clienti fedeli ad alto valore
+C0145,Nord-Ovest,2026-02-04,0,0.0,163,Traslochi,Pay-per-use,238,2,Inattivi / a rischio abbandono
+C0146,Sud,2026-04-10,7,432.16,7,Giardinaggio,Plus,173,3,Clienti fedeli ad alto valore
+C0147,Sud,2026-01-05,3,119.6,29,Giardinaggio,Plus,268,0,Clienti occasionali
+C0148,Sud,2026-04-04,1,35.59,73,Giardinaggio,Pay-per-use,179,0,Clienti occasionali
+C0149,Nord-Est,2026-01-14,1,51.96,62,Riparazioni,Pay-per-use,259,0,Clienti occasionali
+C0150,Isole,2026-04-06,11,697.68,4,Riparazioni,Plus,177,3,Clienti fedeli ad alto valore
+C0151,Nord-Ovest,2026-01-21,1,19.48,44,Traslochi,Pay-per-use,252,0,Clienti occasionali
+C0152,Nord-Est,2026-04-22,1,34.33,10,Assistenza IT,Plus,161,0,Clienti occasionali
+C0153,Sud,2026-06-01,6,349.72,13,Riparazioni,Pay-per-use,121,3,Clienti fedeli ad alto valore
+C0154,Nord-Est,2026-01-07,9,492.62,4,Assistenza IT,Plus,266,3,Clienti fedeli ad alto valore
+C0155,Sud,2026-02-08,0,0.0,229,Traslochi,Pay-per-use,234,2,Inattivi / a rischio abbandono
+C0156,Nord-Ovest,2026-01-15,2,70.35,16,Pulizie,Pay-per-use,258,0,Clienti occasionali
+C0157,Sud,2026-03-15,9,471.12,11,Riparazioni,Plus,199,3,Clienti fedeli ad alto valore
+C0158,Sud,2026-02-16,3,121.07,12,Pulizie,Pay-per-use,226,0,Clienti occasionali
+C0159,Centro,2026-02-10,0,0.0,170,Giardinaggio,Pay-per-use,232,2,Inattivi / a rischio abbandono
+C0160,Nord-Est,2026-02-20,6,287.89,11,Riparazioni,Pay-per-use,222,3,Clienti fedeli ad alto valore
+C0161,Nord-Ovest,2026-05-26,4,154.37,20,Riparazioni,Pay-per-use,127,3,Clienti fedeli ad alto valore
+C0162,Nord-Est,2026-04-30,2,80.85,15,Pulizie,Pay-per-use,153,0,Clienti occasionali
+C0163,Nord-Est,2026-01-21,0,0.0,182,Riparazioni,Pay-per-use,252,2,Inattivi / a rischio abbandono
+C0164,Nord-Ovest,2026-03-05,4,166.1,13,Assistenza IT,Plus,209,3,Clienti fedeli ad alto valore
+C0165,Nord-Ovest,2026-09-13,1,39.56,2,Assistenza IT,Pay-per-use,17,1,Nuovi clienti in fase di prova
+C0166,Nord-Ovest,2026-09-13,2,83.32,3,Pulizie,Pay-per-use,17,1,Nuovi clienti in fase di prova
+C0167,Centro,2026-04-07,1,34.53,63,Assistenza IT,Pay-per-use,176,0,Clienti occasionali
+C0168,Sud,2026-03-28,1,48.16,43,Riparazioni,Pay-per-use,186,0,Clienti occasionali
+C0169,Centro,2026-05-30,2,76.24,15,Traslochi,Plus,123,0,Clienti occasionali
+C0170,Isole,2026-03-25,0,0.0,182,Pulizie,Pay-per-use,189,2,Inattivi / a rischio abbandono
+C0171,Nord-Ovest,2026-05-30,3,137.26,19,Assistenza IT,Plus,123,0,Clienti occasionali
+C0172,Nord-Est,2026-09-18,2,73.23,9,Traslochi,Trial,12,1,Nuovi clienti in fase di prova
+C0173,Nord-Est,2026-02-04,6,294.51,7,Pulizie,Pay-per-use,238,3,Clienti fedeli ad alto valore
+C0174,Centro,2026-05-10,3,108.16,5,Giardinaggio,Plus,143,0,Clienti occasionali
+C0175,Nord-Est,2026-01-17,3,110.34,23,Assistenza IT,Plus,256,0,Clienti occasionali
+C0176,Nord-Est,2026-09-16,2,72.38,5,Pulizie,Trial,14,1,Nuovi clienti in fase di prova
+C0177,Nord-Est,2026-06-26,5,193.63,6,Pulizie,Plus,96,3,Clienti fedeli ad alto valore
+C0178,Centro,2026-05-28,3,110.71,80,Riparazioni,Plus,125,0,Clienti occasionali
+C0179,Nord-Ovest,2026-05-08,4,175.44,26,Riparazioni,Plus,145,3,Clienti fedeli ad alto valore
+C0180,Nord-Ovest,2026-03-05,1,40.42,43,Traslochi,Pay-per-use,209,0,Clienti occasionali
+C0181,Nord-Ovest,2026-03-27,7,316.49,4,Riparazioni,Plus,187,3,Clienti fedeli ad alto valore
+C0182,Sud,2026-04-02,1,22.17,46,Giardinaggio,Pay-per-use,181,0,Clienti occasionali
+C0183,Nord-Est,2026-05-21,4,157.81,29,Giardinaggio,Pay-per-use,132,3,Clienti fedeli ad alto valore
+C0184,Nord-Ovest,2026-09-24,3,77.53,4,Pulizie,Trial,6,1,Nuovi clienti in fase di prova
+C0185,Nord-Ovest,2026-09-01,1,44.7,3,Riparazioni,Trial,29,1,Nuovi clienti in fase di prova
+C0186,Nord-Est,2026-02-02,8,432.88,1,Riparazioni,Plus,240,3,Clienti fedeli ad alto valore
+C0187,Sud,2026-09-13,1,24.24,0,Pulizie,Trial,17,1,Nuovi clienti in fase di prova
+C0188,Nord-Ovest,2026-03-16,6,237.09,5,Assistenza IT,Pay-per-use,198,3,Clienti fedeli ad alto valore
+C0189,Sud,2026-09-15,1,72.37,4,Pulizie,Pay-per-use,15,1,Nuovi clienti in fase di prova
+C0190,Centro,2026-06-18,2,85.5,33,Pulizie,Plus,104,0,Clienti occasionali
+C0191,Centro,2026-05-09,9,536.4,11,Riparazioni,Plus,144,3,Clienti fedeli ad alto valore
+C0192,Centro,2026-05-26,1,29.61,67,Riparazioni,Pay-per-use,127,0,Clienti occasionali
+C0193,Nord-Ovest,2026-01-10,0,0.0,204,Riparazioni,Pay-per-use,263,2,Inattivi / a rischio abbandono
+C0194,Sud,2026-03-23,1,36.32,38,Pulizie,Pay-per-use,191,0,Clienti occasionali
+C0195,Nord-Ovest,2026-05-01,3,87.16,22,Giardinaggio,Pay-per-use,152,0,Clienti occasionali
+C0196,Isole,2026-04-12,1,21.58,57,Pulizie,Pay-per-use,171,0,Clienti occasionali
+C0197,Centro,2026-09-02,4,155.65,0,Assistenza IT,Pay-per-use,28,1,Nuovi clienti in fase di prova
+C0198,Nord-Est,2026-01-07,0,0.0,169,Pulizie,Pay-per-use,266,2,Inattivi / a rischio abbandono
+C0199,Nord-Est,2026-09-04,1,57.37,11,Pulizie,Trial,26,1,Nuovi clienti in fase di prova
+C0200,Sud,2026-05-16,4,189.55,47,Assistenza IT,Pay-per-use,137,3,Clienti fedeli ad alto valore
+C0201,Centro,2026-06-16,1,29.98,43,Riparazioni,Pay-per-use,106,0,Clienti occasionali
+C0202,Nord-Ovest,2026-09-03,3,95.6,12,Traslochi,Trial,27,1,Nuovi clienti in fase di prova
+C0203,Isole,2026-09-03,2,53.65,2,Pulizie,Trial,27,1,Nuovi clienti in fase di prova
+C0204,Isole,2026-01-30,0,0.0,214,Riparazioni,Pay-per-use,243,2,Inattivi / a rischio abbandono
+C0205,Nord-Est,2026-05-06,5,325.5,4,Traslochi,Plus,147,3,Clienti fedeli ad alto valore
+C0206,Isole,2026-01-27,2,98.25,40,Assistenza IT,Pay-per-use,246,0,Clienti occasionali
+C0207,Centro,2026-06-23,6,336.29,16,Riparazioni,Plus,99,3,Clienti fedeli ad alto valore
+C0208,Isole,2026-09-22,1,21.52,2,Traslochi,Trial,8,1,Nuovi clienti in fase di prova
+C0209,Centro,2026-03-29,1,23.17,34,Riparazioni,Pay-per-use,185,0,Clienti occasionali
+C0210,Isole,2026-05-16,1,18.28,29,Assistenza IT,Plus,137,0,Clienti occasionali
+C0211,Nord-Ovest,2026-03-22,1,40.33,52,Pulizie,Pay-per-use,192,0,Clienti occasionali
+C0212,Sud,2026-03-07,5,355.67,7,Giardinaggio,Plus,207,3,Clienti fedeli ad alto valore
+C0213,Nord-Est,2026-01-17,3,167.14,26,Pulizie,Pay-per-use,256,0,Clienti occasionali
+C0214,Sud,2026-06-09,1,25.67,15,Traslochi,Pay-per-use,113,0,Clienti occasionali
+C0215,Centro,2026-09-20,1,40.4,5,Pulizie,Trial,10,1,Nuovi clienti in fase di prova
+C0216,Nord-Ovest,2026-05-11,10,557.55,14,Assistenza IT,Plus,142,3,Clienti fedeli ad alto valore
+C0217,Nord-Ovest,2026-09-24,2,125.37,6,Assistenza IT,Pay-per-use,6,1,Nuovi clienti in fase di prova
+C0218,Centro,2026-09-21,2,85.36,4,Pulizie,Trial,9,1,Nuovi clienti in fase di prova
+C0219,Nord-Ovest,2026-03-28,6,253.74,31,Giardinaggio,Plus,186,3,Clienti fedeli ad alto valore
+C0220,Sud,2026-03-22,7,280.81,36,Assistenza IT,Pay-per-use,192,3,Clienti fedeli ad alto valore
+C0221,Centro,2026-02-18,6,242.55,23,Giardinaggio,Plus,224,3,Clienti fedeli ad alto valore
+C0222,Nord-Est,2026-09-27,3,75.39,3,Pulizie,Trial,3,1,Nuovi clienti in fase di prova
+C0223,Nord-Ovest,2026-04-07,2,80.0,28,Riparazioni,Plus,176,0,Clienti occasionali
+C0224,Nord-Ovest,2026-01-05,1,35.82,59,Pulizie,Pay-per-use,268,0,Clienti occasionali
+C0225,Nord-Ovest,2026-02-14,9,380.06,2,Assistenza IT,Pay-per-use,228,3,Clienti fedeli ad alto valore
+C0226,Sud,2026-09-11,3,116.72,3,Pulizie,Pay-per-use,19,1,Nuovi clienti in fase di prova
+C0227,Nord-Ovest,2026-04-07,5,236.81,34,Giardinaggio,Plus,176,3,Clienti fedeli ad alto valore
+C0228,Isole,2026-04-04,11,661.71,9,Assistenza IT,Plus,179,3,Clienti fedeli ad alto valore
+C0229,Nord-Ovest,2026-04-02,11,805.76,8,Riparazioni,Plus,181,3,Clienti fedeli ad alto valore
+C0230,Nord-Ovest,2026-09-02,5,109.32,6,Pulizie,Trial,28,1,Nuovi clienti in fase di prova
+C0231,Centro,2026-05-30,3,104.86,8,Pulizie,Pay-per-use,123,0,Clienti occasionali
+C0232,Nord-Est,2026-05-08,0,0.0,145,Traslochi,Pay-per-use,145,2,Inattivi / a rischio abbandono
+C0233,Sud,2026-02-27,1,24.02,84,Traslochi,Pay-per-use,215,0,Clienti occasionali
+C0234,Nord-Ovest,2026-01-08,7,300.05,19,Riparazioni,Plus,265,3,Clienti fedeli ad alto valore
+C0235,Nord-Ovest,2026-04-09,1,25.72,15,Traslochi,Pay-per-use,174,0,Clienti occasionali
+C0236,Isole,2026-06-18,1,30.66,59,Traslochi,Pay-per-use,104,0,Clienti occasionali
+C0237,Sud,2026-04-19,0,0.0,164,Pulizie,Pay-per-use,164,2,Inattivi / a rischio abbandono
+C0238,Centro,2026-02-28,5,215.4,29,Riparazioni,Pay-per-use,214,3,Clienti fedeli ad alto valore
+C0239,Centro,2026-03-27,1,66.8,22,Pulizie,Pay-per-use,187,0,Clienti occasionali
+C0240,Sud,2026-03-30,1,30.19,40,Riparazioni,Pay-per-use,184,0,Clienti occasionali
+C0241,Nord-Ovest,2026-05-10,3,118.03,39,Pulizie,Pay-per-use,143,0,Clienti occasionali
+C0242,Nord-Ovest,2026-03-09,1,38.4,71,Giardinaggio,Pay-per-use,205,0,Clienti occasionali
+C0243,Centro,2026-03-04,3,112.54,15,Pulizie,Pay-per-use,210,0,Clienti occasionali
+C0244,Sud,2026-03-08,6,309.81,9,Traslochi,Plus,206,3,Clienti fedeli ad alto valore
+C0245,Nord-Ovest,2026-04-03,3,115.38,27,Riparazioni,Plus,180,0,Clienti occasionali
+C0246,Nord-Est,2026-03-24,0,0.0,112,Giardinaggio,Pay-per-use,190,2,Inattivi / a rischio abbandono
+C0247,Sud,2026-01-29,5,341.17,13,Assistenza IT,Pay-per-use,244,3,Clienti fedeli ad alto valore
+C0248,Nord-Ovest,2026-04-24,0,0.0,159,Riparazioni,Pay-per-use,159,2,Inattivi / a rischio abbandono
+C0249,Sud,2026-01-08,2,76.17,23,Giardinaggio,Pay-per-use,265,0,Clienti occasionali
+C0250,Nord-Ovest,2026-09-14,1,57.44,3,Pulizie,Trial,16,1,Nuovi clienti in fase di prova
+C0251,Nord-Ovest,2026-06-25,1,27.81,37,Giardinaggio,Pay-per-use,97,0,Clienti occasionali
+C0252,Nord-Ovest,2026-04-23,5,216.36,20,Giardinaggio,Plus,160,3,Clienti fedeli ad alto valore
+C0253,Nord-Ovest,2026-01-11,6,242.55,90,Traslochi,Plus,262,3,Clienti fedeli ad alto valore
+C0254,Nord-Est,2026-09-26,2,69.75,4,Giardinaggio,Pay-per-use,4,1,Nuovi clienti in fase di prova
+C0255,Nord-Est,2026-03-27,0,0.0,142,Assistenza IT,Pay-per-use,187,2,Inattivi / a rischio abbandono
+C0256,Centro,2026-03-22,1,28.74,15,Riparazioni,Pay-per-use,192,0,Clienti occasionali
+C0257,Nord-Ovest,2026-05-02,7,298.05,7,Pulizie,Pay-per-use,151,3,Clienti fedeli ad alto valore
+C0258,Centro,2026-09-23,2,93.12,5,Pulizie,Trial,7,1,Nuovi clienti in fase di prova
+C0259,Nord-Ovest,2026-03-14,6,298.61,25,Pulizie,Pay-per-use,200,3,Clienti fedeli ad alto valore
+C0260,Centro,2026-06-11,4,189.57,39,Assistenza IT,Pay-per-use,111,3,Clienti fedeli ad alto valore
+C0261,Nord-Est,2026-04-27,3,116.62,19,Assistenza IT,Plus,156,0,Clienti occasionali
+C0262,Nord-Ovest,2026-03-02,2,52.23,30,Riparazioni,Plus,212,0,Clienti occasionali
+C0263,Nord-Est,2026-05-24,1,30.06,77,Riparazioni,Pay-per-use,129,0,Clienti occasionali
+C0264,Nord-Ovest,2026-06-04,2,64.59,45,Traslochi,Pay-per-use,118,0,Clienti occasionali
+C0265,Nord-Est,2026-09-01,2,91.58,6,Assistenza IT,Trial,29,1,Nuovi clienti in fase di prova
+C0266,Nord-Est,2026-04-27,1,37.69,70,Assistenza IT,Pay-per-use,156,0,Clienti occasionali
+C0267,Centro,2026-09-28,2,74.16,2,Pulizie,Trial,2,1,Nuovi clienti in fase di prova
+C0268,Nord-Ovest,2026-01-07,0,0.0,219,Pulizie,Pay-per-use,266,2,Inattivi / a rischio abbandono
+C0269,Centro,2026-02-02,1,33.1,24,Giardinaggio,Pay-per-use,240,0,Clienti occasionali
+C0270,Nord-Est,2026-01-26,2,65.46,63,Assistenza IT,Pay-per-use,247,0,Clienti occasionali
+C0271,Sud,2026-04-04,1,46.6,30,Assistenza IT,Pay-per-use,179,0,Clienti occasionali
+C0272,Centro,2026-02-27,0,0.0,170,Riparazioni,Pay-per-use,215,2,Inattivi / a rischio abbandono
+C0273,Isole,2026-03-23,2,59.04,86,Traslochi,Pay-per-use,191,0,Clienti occasionali
+C0274,Isole,2026-03-08,4,171.1,15,Assistenza IT,Pay-per-use,206,3,Clienti fedeli ad alto valore
+C0275,Sud,2026-01-09,0,0.0,156,Traslochi,Pay-per-use,264,2,Inattivi / a rischio abbandono
+C0276,Centro,2026-05-05,1,35.81,42,Giardinaggio,Pay-per-use,148,0,Clienti occasionali
+C0277,Centro,2026-06-19,2,121.55,81,Pulizie,Pay-per-use,103,0,Clienti occasionali
+C0278,Centro,2026-01-04,0,0.0,128,Riparazioni,Pay-per-use,269,2,Inattivi / a rischio abbandono
+C0279,Nord-Ovest,2026-04-11,4,157.43,84,Riparazioni,Pay-per-use,172,0,Clienti occasionali
+C0280,Sud,2026-09-11,1,38.81,9,Traslochi,Trial,19,1,Nuovi clienti in fase di prova
+C0281,Centro,2026-01-06,0,0.0,203,Riparazioni,Pay-per-use,267,2,Inattivi / a rischio abbandono
+C0282,Nord-Est,2026-09-08,1,32.8,6,Riparazioni,Trial,22,1,Nuovi clienti in fase di prova
+C0283,Sud,2026-01-28,0,0.0,133,Riparazioni,Pay-per-use,245,2,Inattivi / a rischio abbandono
+C0284,Nord-Ovest,2026-01-22,2,78.76,15,Assistenza IT,Pay-per-use,251,0,Clienti occasionali
+C0285,Centro,2026-01-04,2,115.68,13,Pulizie,Pay-per-use,269,0,Clienti occasionali
+C0286,Sud,2026-06-16,1,34.08,29,Riparazioni,Pay-per-use,106,0,Clienti occasionali
+C0287,Nord-Est,2026-09-21,3,96.11,2,Pulizie,Trial,9,1,Nuovi clienti in fase di prova
+C0288,Sud,2026-06-19,2,63.77,73,Pulizie,Pay-per-use,103,0,Clienti occasionali
+C0289,Centro,2026-01-17,0,0.0,129,Giardinaggio,Pay-per-use,256,2,Inattivi / a rischio abbandono
+C0290,Centro,2026-09-09,2,64.24,12,Pulizie,Pay-per-use,21,1,Nuovi clienti in fase di prova
+C0291,Nord-Est,2026-01-30,1,26.41,65,Giardinaggio,Pay-per-use,243,0,Clienti occasionali
+C0292,Nord-Ovest,2026-09-24,1,29.77,4,Pulizie,Trial,6,1,Nuovi clienti in fase di prova
+C0293,Nord-Ovest,2026-05-18,1,64.41,35,Giardinaggio,Pay-per-use,135,0,Clienti occasionali
+C0294,Nord-Est,2026-03-09,5,228.44,31,Pulizie,Pay-per-use,205,3,Clienti fedeli ad alto valore
+C0295,Nord-Est,2026-03-29,2,84.5,23,Pulizie,Pay-per-use,185,0,Clienti occasionali
+C0296,Nord-Est,2026-01-30,1,60.57,38,Pulizie,Plus,243,0,Clienti occasionali
+C0297,Centro,2026-05-16,3,138.59,39,Riparazioni,Pay-per-use,137,0,Clienti occasionali
+C0298,Nord-Ovest,2026-06-06,4,171.91,13,Pulizie,Plus,116,3,Clienti fedeli ad alto valore
+C0299,Nord-Ovest,2026-01-09,2,75.83,35,Giardinaggio,Plus,264,0,Clienti occasionali
+C0300,Nord-Ovest,2026-09-26,2,48.51,4,Assistenza IT,Trial,4,1,Nuovi clienti in fase di prova
+C0301,Isole,2026-05-13,1,32.12,53,Pulizie,Pay-per-use,140,0,Clienti occasionali
+C0302,Nord-Est,2026-09-14,1,11.72,1,Assistenza IT,Trial,16,1,Nuovi clienti in fase di prova
+C0303,Centro,2026-04-11,1,27.93,72,Riparazioni,Pay-per-use,172,0,Clienti occasionali
+C0304,Nord-Ovest,2026-06-30,7,346.22,30,Pulizie,Pay-per-use,92,3,Clienti fedeli ad alto valore
+C0305,Nord-Ovest,2026-01-24,1,41.5,36,Riparazioni,Pay-per-use,249,0,Clienti occasionali
+C0306,Nord-Ovest,2026-03-07,0,0.0,119,Pulizie,Pay-per-use,207,2,Inattivi / a rischio abbandono
+C0307,Nord-Ovest,2026-06-12,2,53.54,27,Pulizie,Plus,110,0,Clienti occasionali
+C0308,Sud,2026-09-09,1,18.2,11,Pulizie,Trial,21,1,Nuovi clienti in fase di prova
+C0309,Centro,2026-05-20,2,33.67,29,Riparazioni,Pay-per-use,133,0,Clienti occasionali
+C0310,Nord-Est,2026-02-07,3,134.42,22,Pulizie,Pay-per-use,235,0,Clienti occasionali
+C0311,Nord-Ovest,2026-09-10,1,37.16,9,Pulizie,Trial,20,1,Nuovi clienti in fase di prova
+C0312,Centro,2026-02-04,13,832.14,9,Riparazioni,Plus,238,3,Clienti fedeli ad alto valore
+C0313,Centro,2026-01-22,0,0.0,152,Riparazioni,Pay-per-use,251,2,Inattivi / a rischio abbandono
+C0314,Nord-Est,2026-04-22,7,464.41,14,Giardinaggio,Plus,161,3,Clienti fedeli ad alto valore
+C0315,Centro,2026-05-23,3,80.81,61,Riparazioni,Plus,130,0,Clienti occasionali
+C0316,Isole,2026-03-01,5,283.34,9,Pulizie,Plus,213,3,Clienti fedeli ad alto valore
+C0317,Sud,2026-03-16,1,30.14,38,Riparazioni,Pay-per-use,198,0,Clienti occasionali
+C0318,Centro,2026-05-11,1,31.36,10,Riparazioni,Pay-per-use,142,0,Clienti occasionali
+C0319,Nord-Ovest,2026-01-23,1,26.57,20,Riparazioni,Pay-per-use,250,0,Clienti occasionali
+C0320,Sud,2026-03-30,8,542.16,9,Assistenza IT,Pay-per-use,184,3,Clienti fedeli ad alto valore
+C0321,Centro,2026-04-28,5,337.11,15,Giardinaggio,Plus,155,3,Clienti fedeli ad alto valore
+C0322,Nord-Ovest,2026-05-24,6,319.82,6,Assistenza IT,Plus,129,3,Clienti fedeli ad alto valore
+C0323,Nord-Ovest,2026-01-16,5,214.08,34,Traslochi,Plus,257,3,Clienti fedeli ad alto valore
+C0324,Nord-Ovest,2026-05-02,9,372.34,30,Giardinaggio,Plus,151,3,Clienti fedeli ad alto valore
+C0325,Centro,2026-09-12,1,38.67,8,Pulizie,Trial,18,1,Nuovi clienti in fase di prova
+C0326,Nord-Est,2026-01-19,0,0.0,220,Assistenza IT,Pay-per-use,254,2,Inattivi / a rischio abbandono
+C0327,Sud,2026-03-13,1,45.44,50,Traslochi,Pay-per-use,201,0,Clienti occasionali
+C0328,Centro,2026-04-10,3,129.83,9,Pulizie,Plus,173,0,Clienti occasionali
+C0329,Nord-Ovest,2026-01-25,14,688.08,15,Pulizie,Plus,248,3,Clienti fedeli ad alto valore
+C0330,Nord-Ovest,2026-06-05,4,171.9,74,Riparazioni,Pay-per-use,117,0,Clienti occasionali
+C0331,Nord-Ovest,2026-03-24,0,0.0,138,Pulizie,Pay-per-use,190,2,Inattivi / a rischio abbandono
+C0332,Nord-Ovest,2026-09-27,1,42.3,3,Giardinaggio,Trial,3,1,Nuovi clienti in fase di prova
+C0333,Centro,2026-03-20,4,167.88,15,Pulizie,Pay-per-use,194,3,Clienti fedeli ad alto valore
+C0334,Isole,2026-01-28,9,592.32,6,Assistenza IT,Pay-per-use,245,3,Clienti fedeli ad alto valore
+C0335,Sud,2026-09-02,1,25.05,12,Assistenza IT,Trial,28,1,Nuovi clienti in fase di prova
+C0336,Centro,2026-06-21,4,164.19,35,Giardinaggio,Plus,101,3,Clienti fedeli ad alto valore
+C0337,Isole,2026-03-26,1,32.27,42,Traslochi,Pay-per-use,188,0,Clienti occasionali
+C0338,Nord-Ovest,2026-04-09,3,87.64,43,Riparazioni,Pay-per-use,174,0,Clienti occasionali
+C0339,Nord-Est,2026-04-06,0,0.0,177,Giardinaggio,Pay-per-use,177,2,Inattivi / a rischio abbandono
+C0340,Centro,2026-03-03,10,505.16,6,Giardinaggio,Plus,211,3,Clienti fedeli ad alto valore
+C0341,Centro,2026-02-28,1,19.98,71,Riparazioni,Pay-per-use,214,0,Clienti occasionali
+C0342,Nord-Ovest,2026-04-17,0,0.0,166,Riparazioni,Pay-per-use,166,2,Inattivi / a rischio abbandono
+C0343,Nord-Ovest,2026-06-24,7,282.97,22,Traslochi,Pay-per-use,98,3,Clienti fedeli ad alto valore
+C0344,Nord-Ovest,2026-03-27,3,93.92,65,Riparazioni,Pay-per-use,187,0,Clienti occasionali
+C0345,Isole,2026-03-07,0,0.0,150,Riparazioni,Pay-per-use,207,2,Inattivi / a rischio abbandono
+C0346,Centro,2026-01-21,1,38.79,18,Riparazioni,Plus,252,0,Clienti occasionali
+C0347,Sud,2026-03-06,1,40.45,25,Traslochi,Pay-per-use,208,0,Clienti occasionali
+C0348,Nord-Est,2026-05-03,1,27.3,13,Pulizie,Pay-per-use,150,0,Clienti occasionali
+C0349,Centro,2026-03-11,1,24.82,35,Giardinaggio,Pay-per-use,203,0,Clienti occasionali
+C0350,Centro,2026-04-01,1,18.39,28,Traslochi,Pay-per-use,182,0,Clienti occasionali
+C0351,Centro,2026-02-16,7,412.73,6,Riparazioni,Plus,226,3,Clienti fedeli ad alto valore
+C0352,Isole,2026-05-30,10,561.81,11,Pulizie,Plus,123,3,Clienti fedeli ad alto valore
+C0353,Nord-Ovest,2026-03-24,8,465.69,12,Giardinaggio,Pay-per-use,190,3,Clienti fedeli ad alto valore
+C0354,Nord-Ovest,2026-04-22,1,24.67,29,Traslochi,Pay-per-use,161,0,Clienti occasionali
+C0355,Nord-Ovest,2026-09-22,1,54.5,8,Assistenza IT,Trial,8,1,Nuovi clienti in fase di prova
+C0356,Nord-Est,2026-05-04,1,28.59,17,Riparazioni,Pay-per-use,149,0,Clienti occasionali
+C0357,Sud,2026-05-20,0,0.0,133,Pulizie,Pay-per-use,133,2,Inattivi / a rischio abbandono
+C0358,Centro,2026-02-06,7,434.76,12,Giardinaggio,Plus,236,3,Clienti fedeli ad alto valore
+C0359,Nord-Est,2026-09-08,2,60.19,7,Pulizie,Trial,22,1,Nuovi clienti in fase di prova
+C0360,Nord-Ovest,2026-05-06,1,57.51,15,Riparazioni,Pay-per-use,147,0,Clienti occasionali
+C0361,Isole,2026-01-24,1,17.89,55,Riparazioni,Pay-per-use,249,0,Clienti occasionali
+C0362,Centro,2026-03-17,1,34.94,80,Giardinaggio,Pay-per-use,197,0,Clienti occasionali
+C0363,Nord-Est,2026-01-24,5,205.66,40,Giardinaggio,Plus,249,3,Clienti fedeli ad alto valore
+C0364,Nord-Ovest,2026-04-20,0,0.0,120,Traslochi,Pay-per-use,163,2,Inattivi / a rischio abbandono
+C0365,Nord-Ovest,2026-03-30,1,36.57,20,Giardinaggio,Pay-per-use,184,0,Clienti occasionali
+C0366,Nord-Est,2026-01-09,8,474.55,13,Assistenza IT,Pay-per-use,264,3,Clienti fedeli ad alto valore
+C0367,Nord-Ovest,2026-05-05,1,40.42,18,Giardinaggio,Plus,148,0,Clienti occasionali
+C0368,Isole,2026-06-26,3,97.81,33,Assistenza IT,Pay-per-use,96,1,Nuovi clienti in fase di prova
+C0369,Nord-Est,2026-03-24,0,0.0,106,Pulizie,Pay-per-use,190,2,Inattivi / a rischio abbandono
+C0370,Nord-Ovest,2026-04-13,8,442.23,10,Pulizie,Pay-per-use,170,3,Clienti fedeli ad alto valore
+C0371,Sud,2026-09-20,3,120.18,2,Riparazioni,Pay-per-use,10,1,Nuovi clienti in fase di prova
+C0372,Nord-Ovest,2026-01-19,0,0.0,98,Giardinaggio,Pay-per-use,254,2,Inattivi / a rischio abbandono
+C0373,Nord-Est,2026-03-18,11,635.84,12,Riparazioni,Plus,196,3,Clienti fedeli ad alto valore
+C0374,Nord-Ovest,2026-03-04,1,24.46,31,Traslochi,Pay-per-use,210,0,Clienti occasionali
+C0375,Centro,2026-03-21,10,580.45,10,Pulizie,Pay-per-use,193,3,Clienti fedeli ad alto valore
+C0376,Nord-Est,2026-02-03,5,246.81,33,Riparazioni,Plus,239,3,Clienti fedeli ad alto valore
+C0377,Nord-Ovest,2026-06-01,12,616.14,7,Riparazioni,Plus,121,3,Clienti fedeli ad alto valore
+C0378,Isole,2026-05-13,0,0.0,135,Pulizie,Plus,140,2,Inattivi / a rischio abbandono
+C0379,Nord-Est,2026-05-15,0,0.0,134,Giardinaggio,Pay-per-use,138,2,Inattivi / a rischio abbandono
+C0380,Centro,2026-03-11,1,22.99,40,Traslochi,Pay-per-use,203,0,Clienti occasionali
+C0381,Nord-Ovest,2026-03-04,1,19.44,41,Riparazioni,Pay-per-use,210,0,Clienti occasionali
+C0382,Nord-Est,2026-05-18,0,0.0,135,Riparazioni,Pay-per-use,135,2,Inattivi / a rischio abbandono
+C0383,Centro,2026-05-14,0,0.0,109,Pulizie,Pay-per-use,139,2,Inattivi / a rischio abbandono
+C0384,Nord-Ovest,2026-09-17,3,148.66,12,Riparazioni,Pay-per-use,13,1,Nuovi clienti in fase di prova
+C0385,Nord-Est,2026-02-26,1,42.11,27,Riparazioni,Pay-per-use,216,0,Clienti occasionali
+C0386,Nord-Est,2026-01-21,1,34.31,40,Pulizie,Pay-per-use,252,0,Clienti occasionali
+C0387,Nord-Est,2026-01-21,6,188.96,24,Assistenza IT,Plus,252,3,Clienti fedeli ad alto valore
+C0388,Nord-Ovest,2026-06-12,2,84.35,27,Assistenza IT,Pay-per-use,110,0,Clienti occasionali
+C0389,Nord-Ovest,2026-05-03,0,0.0,104,Pulizie,Pay-per-use,150,2,Inattivi / a rischio abbandono
+C0390,Centro,2026-01-05,1,86.57,53,Giardinaggio,Pay-per-use,268,0,Clienti occasionali
+C0391,Sud,2026-02-20,0,0.0,221,Riparazioni,Pay-per-use,222,2,Inattivi / a rischio abbandono
+C0392,Centro,2026-04-04,0,0.0,91,Giardinaggio,Pay-per-use,179,2,Inattivi / a rischio abbandono
+C0393,Nord-Ovest,2026-01-18,1,38.88,74,Traslochi,Pay-per-use,255,0,Clienti occasionali
+C0394,Isole,2026-09-09,6,228.52,8,Riparazioni,Pay-per-use,21,1,Nuovi clienti in fase di prova
+C0395,Isole,2026-03-07,1,17.54,87,Pulizie,Plus,207,0,Clienti occasionali
+C0396,Centro,2026-03-23,4,172.01,24,Pulizie,Pay-per-use,191,3,Clienti fedeli ad alto valore
+C0397,Nord-Ovest,2026-04-09,1,49.18,23,Pulizie,Pay-per-use,174,0,Clienti occasionali
+C0398,Nord-Ovest,2026-05-12,9,492.51,12,Pulizie,Plus,141,3,Clienti fedeli ad alto valore
+C0399,Nord-Ovest,2026-04-08,1,37.98,39,Traslochi,Plus,175,0,Clienti occasionali
+C0400,Nord-Est,2026-05-12,3,103.83,29,Pulizie,Pay-per-use,141,0,Clienti occasionali
+C0401,Sud,2026-05-07,1,26.29,47,Pulizie,Pay-per-use,146,0,Clienti occasionali
+C0402,Sud,2026-05-27,1,27.06,87,Traslochi,Pay-per-use,126,0,Clienti occasionali
+C0403,Nord-Ovest,2026-05-17,4,186.27,10,Assistenza IT,Pay-per-use,136,3,Clienti fedeli ad alto valore
+C0404,Isole,2026-01-14,7,458.93,9,Giardinaggio,Plus,259,3,Clienti fedeli ad alto valore
+C0405,Nord-Ovest,2026-09-04,4,160.76,4,Riparazioni,Trial,26,1,Nuovi clienti in fase di prova
+C0406,Centro,2026-05-09,9,488.24,12,Assistenza IT,Plus,144,3,Clienti fedeli ad alto valore
+C0407,Centro,2026-05-20,0,0.0,133,Traslochi,Pay-per-use,133,2,Inattivi / a rischio abbandono
+C0408,Sud,2026-03-26,0,0.0,121,Giardinaggio,Pay-per-use,188,2,Inattivi / a rischio abbandono
+C0409,Centro,2026-04-19,11,610.95,7,Assistenza IT,Pay-per-use,164,3,Clienti fedeli ad alto valore
+C0410,Centro,2026-01-04,9,432.11,11,Riparazioni,Pay-per-use,269,3,Clienti fedeli ad alto valore
+C0411,Sud,2026-02-10,2,75.53,28,Pulizie,Pay-per-use,232,0,Clienti occasionali
+C0412,Sud,2026-05-11,6,359.0,5,Giardinaggio,Plus,142,3,Clienti fedeli ad alto valore
+C0413,Nord-Est,2026-03-29,4,154.93,69,Giardinaggio,Pay-per-use,185,0,Clienti occasionali
+C0414,Sud,2026-09-07,2,99.88,0,Pulizie,Trial,23,1,Nuovi clienti in fase di prova
+C0415,Nord-Ovest,2026-06-15,1,53.64,32,Traslochi,Plus,107,0,Clienti occasionali
+C0416,Nord-Est,2026-09-26,1,29.58,4,Pulizie,Trial,4,1,Nuovi clienti in fase di prova
+C0417,Sud,2026-01-22,0,0.0,127,Riparazioni,Pay-per-use,251,2,Inattivi / a rischio abbandono
+C0418,Nord-Est,2026-06-01,10,506.49,3,Pulizie,Pay-per-use,121,3,Clienti fedeli ad alto valore
+C0419,Nord-Est,2026-09-03,1,46.34,0,Pulizie,Trial,27,1,Nuovi clienti in fase di prova
+C0420,Isole,2026-04-18,1,22.79,68,Riparazioni,Pay-per-use,165,0,Clienti occasionali
+C0421,Sud,2026-06-18,1,23.28,81,Riparazioni,Pay-per-use,104,0,Clienti occasionali
+C0422,Centro,2026-04-28,12,730.3,14,Assistenza IT,Plus,155,3,Clienti fedeli ad alto valore
+C0423,Isole,2026-05-11,2,75.71,72,Giardinaggio,Pay-per-use,142,0,Clienti occasionali
+C0424,Nord-Est,2026-06-07,7,271.52,13,Riparazioni,Pay-per-use,115,3,Clienti fedeli ad alto valore
+C0425,Centro,2026-09-11,2,74.47,11,Assistenza IT,Trial,19,1,Nuovi clienti in fase di prova
+C0426,Nord-Ovest,2026-02-26,1,24.81,57,Riparazioni,Pay-per-use,216,0,Clienti occasionali
+C0427,Nord-Ovest,2026-02-02,3,159.36,11,Traslochi,Plus,240,3,Clienti fedeli ad alto valore
+C0428,Centro,2026-09-09,1,29.8,10,Assistenza IT,Trial,21,1,Nuovi clienti in fase di prova
+C0429,Centro,2026-02-27,0,0.0,173,Riparazioni,Pay-per-use,215,2,Inattivi / a rischio abbandono
+C0430,Nord-Est,2026-03-25,5,254.8,23,Giardinaggio,Plus,189,3,Clienti fedeli ad alto valore
+C0431,Isole,2026-03-18,1,36.14,82,Pulizie,Pay-per-use,196,0,Clienti occasionali
+C0432,Nord-Ovest,2026-02-23,0,0.0,175,Riparazioni,Pay-per-use,219,2,Inattivi / a rischio abbandono
+C0433,Nord-Ovest,2026-05-10,1,31.11,26,Pulizie,Pay-per-use,143,0,Clienti occasionali
+C0434,Nord-Ovest,2026-04-20,1,37.93,47,Assistenza IT,Pay-per-use,163,0,Clienti occasionali
+C0435,Nord-Est,2026-01-16,10,616.24,12,Giardinaggio,Plus,257,3,Clienti fedeli ad alto valore
+C0436,Nord-Est,2026-09-04,1,46.84,4,Pulizie,Pay-per-use,26,1,Nuovi clienti in fase di prova
+C0437,Nord-Est,2026-04-12,10,566.03,3,Assistenza IT,Plus,171,3,Clienti fedeli ad alto valore
+C0438,Centro,2026-01-22,8,353.69,17,Riparazioni,Pay-per-use,251,3,Clienti fedeli ad alto valore
+C0439,Sud,2026-01-09,3,116.48,33,Traslochi,Pay-per-use,264,0,Clienti occasionali
+C0440,Centro,2026-03-11,0,0.0,140,Assistenza IT,Pay-per-use,203,2,Inattivi / a rischio abbandono
+C0441,Isole,2026-05-17,1,47.45,24,Assistenza IT,Plus,136,0,Clienti occasionali
+C0442,Centro,2026-05-29,5,248.66,27,Traslochi,Pay-per-use,124,3,Clienti fedeli ad alto valore
+C0443,Centro,2026-01-14,11,660.35,9,Pulizie,Plus,259,3,Clienti fedeli ad alto valore
+C0444,Isole,2026-01-12,10,598.94,3,Riparazioni,Plus,261,3,Clienti fedeli ad alto valore
+C0445,Nord-Ovest,2026-09-14,1,41.88,6,Pulizie,Trial,16,1,Nuovi clienti in fase di prova
+C0446,Centro,2026-06-07,1,74.54,37,Riparazioni,Plus,115,0,Clienti occasionali
+C0447,Nord-Est,2026-03-20,2,42.88,27,Giardinaggio,Pay-per-use,194,0,Clienti occasionali
+C0448,Sud,2026-03-23,13,751.46,7,Pulizie,Plus,191,3,Clienti fedeli ad alto valore
+C0449,Nord-Ovest,2026-01-15,1,67.2,35,Pulizie,Pay-per-use,258,0,Clienti occasionali
+C0450,Centro,2026-05-04,1,34.2,23,Pulizie,Pay-per-use,149,0,Clienti occasionali
+C0451,Sud,2026-01-30,1,22.22,54,Riparazioni,Pay-per-use,243,0,Clienti occasionali
+C0452,Nord-Ovest,2026-01-26,0,0.0,184,Riparazioni,Pay-per-use,247,2,Inattivi / a rischio abbandono
+C0453,Nord-Ovest,2026-04-01,3,108.43,9,Pulizie,Plus,182,0,Clienti occasionali
+C0454,Isole,2026-09-09,1,60.95,11,Pulizie,Trial,21,1,Nuovi clienti in fase di prova
+C0455,Sud,2026-06-14,1,30.33,53,Traslochi,Pay-per-use,108,0,Clienti occasionali
+C0456,Nord-Ovest,2026-01-18,0,0.0,153,Traslochi,Pay-per-use,255,2,Inattivi / a rischio abbandono
+C0457,Centro,2026-09-28,2,81.84,2,Riparazioni,Trial,2,1,Nuovi clienti in fase di prova
+C0458,Nord-Est,2026-05-16,1,31.19,87,Riparazioni,Pay-per-use,137,0,Clienti occasionali
+C0459,Nord-Ovest,2026-03-08,3,112.41,68,Traslochi,Pay-per-use,206,0,Clienti occasionali
+C0460,Sud,2026-02-13,1,59.07,10,Pulizie,Plus,229,0,Clienti occasionali
+C0461,Nord-Ovest,2026-06-22,3,77.19,23,Riparazioni,Pay-per-use,100,1,Nuovi clienti in fase di prova
+C0462,Nord-Ovest,2026-06-05,4,168.31,4,Giardinaggio,Pay-per-use,117,3,Clienti fedeli ad alto valore
+C0463,Nord-Ovest,2026-09-16,2,70.52,7,Traslochi,Pay-per-use,14,1,Nuovi clienti in fase di prova
+C0464,Isole,2026-05-02,1,28.41,15,Assistenza IT,Plus,151,0,Clienti occasionali
+C0465,Isole,2026-09-15,2,131.54,1,Assistenza IT,Trial,15,1,Nuovi clienti in fase di prova
+C0466,Nord-Est,2026-03-06,5,142.69,17,Traslochi,Pay-per-use,208,3,Clienti fedeli ad alto valore
+C0467,Nord-Est,2026-05-21,0,0.0,132,Traslochi,Pay-per-use,132,2,Inattivi / a rischio abbandono
+C0468,Nord-Ovest,2026-09-11,2,68.62,3,Giardinaggio,Trial,19,1,Nuovi clienti in fase di prova
+C0469,Sud,2026-04-16,9,429.07,33,Riparazioni,Pay-per-use,167,3,Clienti fedeli ad alto valore
+C0470,Nord-Ovest,2026-01-21,0,0.0,222,Riparazioni,Pay-per-use,252,2,Inattivi / a rischio abbandono
+C0471,Nord-Ovest,2026-06-13,3,119.32,15,Giardinaggio,Pay-per-use,109,0,Clienti occasionali
+C0472,Sud,2026-05-05,0,0.0,148,Riparazioni,Pay-per-use,148,2,Inattivi / a rischio abbandono
+C0473,Nord-Ovest,2026-03-14,8,404.19,10,Riparazioni,Plus,200,3,Clienti fedeli ad alto valore
+C0474,Nord-Est,2026-02-19,2,67.59,27,Giardinaggio,Pay-per-use,223,0,Clienti occasionali
+C0475,Nord-Ovest,2026-01-09,10,523.07,15,Riparazioni,Pay-per-use,264,3,Clienti fedeli ad alto valore
+C0476,Nord-Ovest,2026-03-07,3,113.05,39,Pulizie,Plus,207,0,Clienti occasionali
+C0477,Nord-Est,2026-06-13,1,22.33,51,Pulizie,Pay-per-use,109,0,Clienti occasionali
+C0478,Sud,2026-09-26,2,77.19,2,Pulizie,Trial,4,1,Nuovi clienti in fase di prova
+C0479,Centro,2026-04-06,0,0.0,177,Riparazioni,Pay-per-use,177,2,Inattivi / a rischio abbandono
+C0480,Centro,2026-06-24,4,154.84,36,Riparazioni,Pay-per-use,98,3,Clienti fedeli ad alto valore

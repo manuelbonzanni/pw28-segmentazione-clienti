@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+# stato generato dall'uso della dashboard (clienti inseriti e modello attivo)
+data/clienti_nuovi.csv
+data/modello_attivo.json

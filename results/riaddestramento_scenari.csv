@@ -1,0 +1,6 @@
+scenario,clienti_aggiunti,silhouette_prima,silhouette_dopo,ari,quota_cambiata_pct
+A: +40 clienti (stessa distribuzione),40,0.49,0.483,1.0,0.0
+B: +100 clienti (stessa distribuzione),100,0.49,0.479,1.0,0.0
+C: campagna di acquisizione (iscritti da < 30 giorni),300,0.49,0.553,0.995,0.2
+D: deriva verso l'inattivita' (nessuna richiesta recente),150,0.49,0.518,0.956,1.5
+"E: afflusso di clienti poco attivi (1-2 richieste, iscritti da > 60 giorni)",400,0.49,0.394,0.688,15.0

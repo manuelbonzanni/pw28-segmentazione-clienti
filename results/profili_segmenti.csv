@@ -1,0 +1,5 @@
+cluster,clienti,richieste_90g,importo_totale_90g,giorni_ultima_richiesta,anzianita_giorni,ricavo_totale,quota_clienti_%,quota_ricavi_%,categoria_prevalente,quota_plus_%,quota_trial_%,segmento
+0,176,1.66,61.7,41.24,183.28,10858.63,36.67,14.99,Riparazioni,21.02,0.0,Clienti occasionali
+1,73,1.86,67.94,5.7,18.89,4959.56,15.21,6.85,Pulizie,0.0,71.23,Nuovi clienti in fase di prova
+2,84,0.0,0.0,153.51,205.6,0.0,17.5,0.0,Riparazioni,2.38,0.0,Inattivi / a rischio abbandono
+3,147,7.28,385.25,14.27,184.44,56632.02,30.62,78.17,Assistenza IT,59.18,0.0,Clienti fedeli ad alto valore
