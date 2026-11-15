@@ -168,7 +168,7 @@ def main():
     pre = S.Preprocessor().fit(df)
     X = pre.transform(df)
     scan = S.scan_k(X)
-    scan.to_csv(C.RESULTS_DIR / "valutazione_k.csv", index=False)
+    scan.to_csv(C.RESULTS_DIR / "valutazione_k.csv", index=False, float_format="%.10g")
     k = S.choose_k(scan)
     M = {"pulizia": report, "k_scelto": k}
 
